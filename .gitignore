@@ -55,10 +55,14 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 
 # next.js build output
 .next
 
 # VSCode settings
 .vscode/
+
+#intellij settings
+.idea
+.DS_store
