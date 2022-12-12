@@ -1,26 +1,15 @@
-<img src="cover.png" width="200" align="right" />
 
 # JavaScript Everywhere API
 
-This repository contains code examples for the API chapters of [_JavaScript Everywhere_](https://www.jseverywhere.io/) by Adam D. Scott, published by O'Reilly Media
+This repository is forked from [_JavaScript Everywhere_](https://www.jseverywhere.io/) by Adam D. Scott, published by O'Reilly Media
 
-## Getting Help
-
-The best place to get help is our Spectrum channel, [spectrum.chat/jseverywhere](https://spectrum.chat/jseverywhere).
 
 ## Directory Structure
 
 - `/src` If you are following along with the book, this is the directory where you should perform your development.
-- `/solutions` This directory contains the solutions for each chapter. If you get stuck, these are available for you to consult.
-- `/final` This directory contains the final working project
+- `/solutions` was there in original repo, but has been removed
+- `/final` was there in original repo, but has been removed
 
-## To Use the Final Project Files
-
-If you're developing a UI and would like to use the completed project, copy the files to the completed files to the `src` as follows: 
-
-```
-cp -rf ./final/* ./src/
-```
 
 ## Seed Data
 
@@ -43,6 +32,8 @@ This project pledges to follow the [Contributor's Covenant](http://contributor-c
 ## License
 
 Copyright 2019 Adam D. Scott
+
+Copyright 2022 Kapil Gulati
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
